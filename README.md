@@ -47,7 +47,7 @@
     * **Choosing the default editor** : Если вы планируете писать код в VSCode, выберите Visual Studio Code из выпадающего списка. Если вы не уверены, оставьте Vim.
     </br>
     </br> 
-    ![окно установки Default Editor](img/DefaultEditor.jpg)
+  ![Default Editor](img/DefaultEditor.jpg)
 
   
 
