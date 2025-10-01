@@ -2,6 +2,11 @@
 layout: default
 title: "Git Guide by Artem Manuylov"
 ---
+<style>
+.page-header {
+    display: none !important;
+    background-color: rgba(0, 0, 0, 1);
+}
 
 # Руководство по Git
 
