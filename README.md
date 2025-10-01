@@ -43,8 +43,7 @@
     * **Select Components** : Оставьте все галочки по умолчанию. Убедитесь, что `Git Bush` и `Git GUI` выбраны.
     </br>
     </br>
-    ![окно установки Select Components](https://raw.githubusercontent.com/ArtemManuylov/user-guide-Git/main/img/SelectComponents.jpg)
-
+    <img src="img/SelectComponents.jpg" alt="окно установки Select Components" width="600">
     * **Choosing the default editor** : Если вы планируете писать код в VSCode, выберите Visual Studio Code из выпадающего списка. Если вы не уверены, оставьте Vim.
     </br>
     </br> 
