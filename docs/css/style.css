@@ -5,4 +5,9 @@
 body{
     background: #252525;
 }
-
+.markdown-body {
+    color: white;
+}
+.site-title { 
+    display: none !important; 
+}
