@@ -1,3 +1,7 @@
+---
+layout: default
+title: ""
+---
 <link rel="stylesheet" href="css/style.css">
 
 # Руководство пользователя: работа с Git и GitHub
