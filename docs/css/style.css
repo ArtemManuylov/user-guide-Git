@@ -4,3 +4,6 @@ body{
 .markdown-body {
     color: white;
 }
+.markdown-body code{
+    background: #a7a7a73b;
+}
